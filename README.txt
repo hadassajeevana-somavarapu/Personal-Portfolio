@@ -1,0 +1,1 @@
+Group1 Personal Portfolio\n\nOpen index.html in a browser.\nHTML structure is in index.html and styling is in style.css.\nResponsive layouts are included for tablet and mobile screens.\nSome images and fonts load from external Unsplash/Google Fonts URLs, so an internet connection helps.\n
